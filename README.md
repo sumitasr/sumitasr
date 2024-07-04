@@ -18,7 +18,7 @@
   </h1>
 </div>
 
-My name is Sumit! If you have any questions, want to collaborate, or are looking for some custom development or consultation feel free to reach me here. Hope to hear from you!
+My name is Sumit! If you have any questions or want to collaborate feel free to reach me here. Hope to hear from you!
 
 <!--
 **sumitsb/sumitsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
