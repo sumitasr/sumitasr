@@ -36,14 +36,5 @@ Here are some ideas to get you started:
 -->
 
 ---
-
-<div id="stats" align="center">
-  <a href="https://github.com/sumitasr">
-    <img src="https://github-readme-stats.vercel.app/api?username=sumitsb&show_icons=true&theme=dark" alt=""/>
-  </a>
-  <a href="https://github.com/sumitasr">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=sumitsb&theme=dark" alt=""/>
-  </a>
-</div>
   
 
